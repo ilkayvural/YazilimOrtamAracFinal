@@ -1,0 +1,2 @@
+# YazilimOrtamAracFinal
+SelcukUniversitesiRestapi
